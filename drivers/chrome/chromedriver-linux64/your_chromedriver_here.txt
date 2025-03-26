@@ -1,0 +1,8 @@
+I'm using a chrome driver and storing it here
+
+# TODO: add instructions to download the chromedriver to this path
+
+Download your chromedriver from:
+https://googlechromelabs.github.io/chrome-for-testing/
+
+It's going to be in a zip file. Extract it here at this folder.

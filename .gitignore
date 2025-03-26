@@ -172,3 +172,11 @@ cython_debug/
 
 # PyPI configuration file
 .pypirc
+
+
+# Browser driver
+# chrome
+drivers/chrome/chromedriver-linux64.zip
+drivers/chrome/chromedriver-linux64/LICENSE.chromedriver
+drivers/chrome/chromedriver-linux64/THIRD_PARTY_NOTICES.chromedriver
+drivers/chrome/chromedriver-linux64/chromedriver
