@@ -9,4 +9,4 @@ from scrappers.motorsports import formula1
 
 
 if __name__ == "__main__":
-    formula1.run_it_all()  # So far it's just printing the output
+    formula1.retrieve_tables(drivers=True, teams=True)  # So far it's just printing the output

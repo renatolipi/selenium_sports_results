@@ -1,6 +1,6 @@
 [tool.poetry]
 name = "selenium_sports_results"
-version = "0.0.1"
+version = "0.0.2"
 description = ""
 authors = ["renatolipi"]
 
